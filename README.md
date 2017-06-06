@@ -1,0 +1,1 @@
+Meu nome é Aguinaldo, tenho 30 anos, atualmente sou coordenador de infraestrutura e estou fazendo o curso JAVA FJ22, para conseguir uma base melhor para desenvolver meus projetos pessoais e profissionais
